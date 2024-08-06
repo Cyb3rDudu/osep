@@ -10,4 +10,5 @@ DUring the creation of the Repository i will focus on the utilisation of sliver 
 
 | Module | Description | SubModules |
 | ------ | ----------- | ---------- |
+| Sliver | Snippets to setup Sliver C2 | |
 | VBA | Tools that aid in executing shellcode either from memory or disk, from a word VBS Macro | `WordMacroRunner.vbs`, `WordMacroRunnerBasic.vbs`, `vbObfuscate.ps1`, `WordPsCradle.vbs`, `WordMacroInject.vbs` |
