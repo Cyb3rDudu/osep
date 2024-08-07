@@ -1,0 +1,7 @@
+/home/dudu/Downloads/OSEP-Tools-v2-main/AppLocker_Bypass/altBypass/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/home/dudu/Downloads/OSEP-Tools-v2-main/AppLocker_Bypass/altBypass/bin/Release/altbypass.exe.config
+/home/dudu/Downloads/OSEP-Tools-v2-main/AppLocker_Bypass/altBypass/bin/Release/altbypass.pdb
+/home/dudu/Downloads/OSEP-Tools-v2-main/AppLocker_Bypass/altBypass/bin/Release/altbypass.exe
+/home/dudu/Downloads/OSEP-Tools-v2-main/AppLocker_Bypass/altBypass/obj/Release/altbypass.exe
+/home/dudu/Downloads/OSEP-Tools-v2-main/AppLocker_Bypass/altBypass/obj/Release/altbypass.pdb
+/home/dudu/Downloads/OSEP-Tools-v2-main/AppLocker_Bypass/altBypass/bin/Release/System.Management.Automation.dll
